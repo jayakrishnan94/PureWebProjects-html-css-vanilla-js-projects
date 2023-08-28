@@ -14,6 +14,7 @@ const files = [
     'layout/partials/header.html',
     'layout/partials/sidebar.html',
     'layout/partials/footer.html',
+    'layout/styles/layout.css',
     'layout/styles/main.css',
     'layout/styles/variables.css',
     'layout/styles/theme.css',
@@ -24,7 +25,7 @@ const files = [
     'layout/scripts/modules/sidebar.js'
 ];
 
-const authorName = 'Your Name';
+const authorName = 'Jayakrishnan AV';
 const signature = `
 ********************************************
 Author: ${authorName}

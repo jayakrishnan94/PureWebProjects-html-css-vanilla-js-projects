@@ -43,7 +43,7 @@ function createProject(projectName) {
         'scripts/modules/sidebar.js'
     ];
 
-    const authorName = 'Your Name';
+    const authorName = 'Jayakrishnan AV';
     const signature = `
 ********************************************
 Author: ${authorName}
